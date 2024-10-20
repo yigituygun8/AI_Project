@@ -20,4 +20,4 @@ Result Evaluation: If the model detects significant garbage in certain areas, it
 Team Deployment: Based on the detected areas, a cleaning team is dispatched to the locations with the highest concentration of trash.
 
 ## Video Reference:
-The project leverages the methodology shown in this video: Video Reference, where YOLOv3 is used in conjunction with OpenCV for object detection.
+The project leverages the methodology shown in this video: https://www.youtube.com/watch?v=_FNfRtXEbr4&t=124s , where YOLOv3 is used in conjunction with OpenCV for object detection.
